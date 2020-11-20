@@ -1,0 +1,6 @@
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/5/MandatoryAssignmentNr5/bin/Debug/MandatoryAssignmentNr5.exe
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/5/MandatoryAssignmentNr5/bin/Debug/MandatoryAssignmentNr5.pdb
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/5/MandatoryAssignmentNr5/obj/Debug/MandatoryAssignmentNr5.csprojAssemblyReference.cache
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/5/MandatoryAssignmentNr5/obj/Debug/MandatoryAssignmentNr5.csproj.CoreCompileInputs.cache
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/5/MandatoryAssignmentNr5/obj/Debug/MandatoryAssignmentNr5.exe
+/Users/viki/Desktop/UNI/MASTER (cbs)/1st Semester/Introduction to Programming and Application Design (T)/mandatory assignments/5/MandatoryAssignmentNr5/obj/Debug/MandatoryAssignmentNr5.pdb
